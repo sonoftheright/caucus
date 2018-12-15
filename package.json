@@ -1,0 +1,26 @@
+{
+  "name": "mp-socket-server-framework",
+  "version": "0.0.1",
+  "description": "Library for establishing and handing off p2p socket servers with authority negotiation, player identification, and complex permissions as a platform for low-overhead, multiuser, performant solutions.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonoftheright/caucus.git"
+  },
+  "keywords": [
+    "socket",
+    "multiuser",
+    "nodejs",
+    "chat"
+  ],
+  "author": "Benjamin Marquardt <son.of.the.right@gmail.com> (http://www.freneticetchings.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonoftheright/caucus/issues"
+  },
+  "homepage": "https://github.com/sonoftheright/caucus#readme"
+}
