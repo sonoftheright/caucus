@@ -25,6 +25,7 @@
   "homepage": "https://github.com/sonoftheright/caucus#readme",
   "dependencies": {
     "express": "latest",
-    "socket.io": "latest"
+    "socket.io": "latest",
+    "localforage": "latest"
   }
 }
