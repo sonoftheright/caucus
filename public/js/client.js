@@ -36,7 +36,7 @@ form.addEventListener('submit', (e) => {
 	console.log('message sent.');
 });
 
-socket.on("login", (data) => {
+socket.on("guestlogin", (data) => {
 	console.log("New user data: " + JSON.stringify(data));
 	self.name = data.name;
 	self.id = data.id;
