@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/sonoftheright/caucus/issues"
   },
-  "homepage": "https://github.com/sonoftheright/caucus#readme"
+  "homepage": "https://github.com/sonoftheright/caucus#readme",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest"
+  }
 }
