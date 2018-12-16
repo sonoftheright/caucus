@@ -1,5 +1,5 @@
 # Caucus
-A nodejs module for creating a server that creates client-side socket authorities for hosting multiuser p2p isntances. 
+A nodejs module for creating a server that creates client-side socket authorities for hosting multiuser negotiated instances. Currently testing on http://caucus.network.
 
 ## nodejs - server.js
  #### PLANNED
