@@ -1,15 +1,75 @@
-* { margin: 0; padding: 0; box-sizing: border-box; }
+* { 
+margin: 0; 
+padding: 0; 
+/*box-sizing: border-box; */
+}
 
 body { font: 13px Helvetica, Arial; }
 
-form { background: #000; padding: 3px; position: fixed; bottom: 0; width: 100%; }
+form { 
+	background: #000; 
+	padding: 3px; 
+	position: fixed; 
+	bottom: 0; 
+	width: 100%; }
 
-form input { border: 0; padding: 10px; width: 90%; margin-right: .5%; }
+form input { 
+	border: 0; 
+	padding: 10px; 
+	width: 90%; 
+	margin-right: .5%; 
+}
 
-form button { width: 9%; background: rgb(130, 224, 255); border: none; padding: 10px; }
+form button { 
+	width: 7%; 
+	background: rgb(130, 224, 255); 
+	border: none; 
+	padding: 10px; 
+}
 
-#messages { list-style-type: none; margin: 0; padding: 0 0 50px 0px; height: 70%; top: 0; display: block;}
+.message-div {
+	margin: 0; 
+	padding: 0 0 50px 0px; 
+	height: 70%; top: 0; 
+	display: block;
+	float: left;
+	width: 77%;
+}
+
+#messages { 
+	list-style-type: none; 
+	width: 100%;
+}
 
 #messages li { padding: 5px 10px; }
 
-#messages li:nth-child(odd) { background: #eee; }
+#messages li:nth-child(odd) { background: #ddd; }
+
+#guestlist {
+	width: 20%;
+	display: block;
+	float: right;
+	height: 100%;
+	border-left: 2px black solid;
+	padding: 5px 20px 5px 5px;
+}
+.guest {
+	font-weight: bold;
+	font-size: 1.2em;
+	font-style: italic;
+	background-color: #eee;
+}
+
+@keyframes ellipsis {
+	0%   {color: black; }
+	25%  {color: #ddd; }
+	50%  {color: #bbb; }
+	75%  {color: #ddd; }
+	100% {color: black; }
+}
+
+.typing {
+	animation-name: ellipsis;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}

@@ -1,0 +1,843 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gameOver",
+				"gameOverEndings"
+			],
+			[
+				"playerVar",
+				"playerVariableHealAmount"
+			],
+			[
+				"min",
+				"min_date_created"
+			],
+			[
+				"request",
+				"requestURL"
+			],
+			[
+				"getDate",
+				"getDateFromInput"
+			],
+			[
+				"entit",
+				"entitify"
+			],
+			[
+				"boun",
+				"boundingBoxOn"
+			],
+			[
+				"collision",
+				"collisionObjectsToUpdate"
+			],
+			[
+				"init",
+				"initViewport"
+			],
+			[
+				"worldFo",
+				"worldFocusCoordX"
+			],
+			[
+				"world",
+				"worldFocusCoordX"
+			],
+			[
+				"populate",
+				"populateIteration"
+			],
+			[
+				"po",
+				"populateIteration"
+			],
+			[
+				"print",
+				"printEnvironmentInfo"
+			],
+			[
+				"Po",
+				"POSITION"
+			],
+			[
+				"get",
+				"getGridpointPosition"
+			],
+			[
+				"grid",
+				"gridPoints"
+			],
+			[
+				"bottom",
+				"bottomMiddle"
+			],
+			[
+				"neighborMa",
+				"neighborMaxZ"
+			],
+			[
+				"MAP",
+				"MAP_HEIGHT"
+			],
+			[
+				"DEF",
+				"DEF_MAP_WIDTH"
+			],
+			[
+				"DEF_MA",
+				"DEF_MAP_HEIGHT"
+			],
+			[
+				"MAX",
+				"MAX_INPUT_LENGTH"
+			],
+			[
+				"Buffer",
+				"BufferDescription"
+			],
+			[
+				"balance",
+				"balanceCheck"
+			],
+			[
+				"server",
+				"serverInfo"
+			],
+			[
+				"N",
+				"NETWORK_OK"
+			],
+			[
+				"listening",
+				"listeningSocket"
+			],
+			[
+				"NETO",
+				"NETWORK_ERROR"
+			],
+			[
+				"tripl",
+				"tripleByValue"
+			],
+			[
+				"triple",
+				"tripleByValue"
+			],
+			[
+				"guess",
+				"guesses"
+			],
+			[
+				"XInput",
+				"XInputSetState"
+			],
+			[
+				"x_inpu",
+				"x_input_get_state"
+			],
+			[
+				"Bitmap",
+				"BitmapHeight"
+			],
+			[
+				"Window",
+				"WindowRect"
+			],
+			[
+				"BitmA",
+				"BitmapMemorySize"
+			],
+			[
+				"BITM",
+				"BITMAPINFO"
+			],
+			[
+				"lp",
+				"lpszClassName"
+			],
+			[
+				"Win",
+				"WindowClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/admin/Documents/Programming/socket-server/server.js",
+			"settings":
+			{
+				"buffer_size": 2218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client.js",
+			"settings":
+			{
+				"buffer_size": 1593,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/admin/Documents/Programming/socket-server/public/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/admin/Documents/Programming/socket-server/public/index.html",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"orgmode",
+				"Set Syntax: orgmode"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 492.0,
+		"history":
+		[
+			"dir",
+			"ls",
+			"build.bat",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/admin/Documents/Programming/socket-server",
+		"/C/Users/admin/Documents/Programming/socket-server/public",
+		"/C/Users/admin/Documents/Programming/socket-server/public/css",
+		"/C/Users/admin/Documents/Programming/socket-server/public/js"
+	],
+	"file_history":
+	[
+		"/C/Users/admin/Downloads/The Righteous Mind_ Why Good People Are Divided by Politics and Religion by Jonathan Haidt EPUB/free audiobook version.txt",
+		"/C/Users/admin/Documents/Programming/socket-server/public/socket.io.js",
+		"/C/Vue/12-directives/src/main.js",
+		"/C/Vue/12-directives/src/App.vue",
+		"/E/Vue/12-directives/index.html",
+		"/E/Vue/12-directives/src/App.vue",
+		"/C/Users/admin/Dropbox/Windows Product Keys.txt",
+		"/C/Users/admin/Documents/Programming/Web Tests/Thermometer/thermometers.html",
+		"/E/C/ConsoleApplication1/ConsoleApplication1/keylog.txt",
+		"/E/Vue/forms-module/assignment/src/App.vue",
+		"/E/Data Science and Deep Learning/Programming/Basic/main.cpp",
+		"/E/Data Science and Deep Learning/Programming/Basic/main.h",
+		"/E/Vue/forms-module/assignment/README.md",
+		"/C/Users/admin/Downloads/cudnn-10.0-windows7-x64-v7.4.1.5/cuda/bin/cudnn64_7.dll",
+		"/C/Users/admin/Documents/Programming/keylogger.c",
+		"/C/Users/admin/Dropbox/Programming/Tutorials/Handmade Hero/handmade_hero_010_source/handmade_hero_day_010_source/code/win32_handmade.cpp",
+		"/C/Users/admin/Documents/Programming/betterkeylogger.c",
+		"/C/Users/admin/source/repos/ConsoleApplication1/ConsoleApplication1/keylog.txt",
+		"/C/Users/admin/Documents/Programming/test-log.txt",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/components/ServerStatus.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/components/MainBody.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/components/Header.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/components/Footer.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/components/AltHeader.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/App.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/index.html",
+		"/C/Users/admin/Dropbox/Programming/game0/systemstest.h",
+		"/C/Users/admin/Dropbox/Programming/game0/systemstest.cpp",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/main.js",
+		"/C/Users/admin/Downloads/ChipGenius_v4_18_0203/readme.txt",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/webpack.config.js",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/package.json",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/Footer.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/MainBody.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/AltHeader.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/AltBody.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/README.md",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/ServerStatus.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/src/Header.vue",
+		"/C/Vue/assignments/Exercise 6 - Practicing with Components/node_modules/vue/dist/vue.js",
+		"/E/Vue/components-project/index.html",
+		"/E/Vue/components-project/src/main.js",
+		"/E/Vue/components-project/src/Home.vue",
+		"/E/Vue/components-project/src/ServerStatus.vue",
+		"/E/Vue/components-project/src/App.vue",
+		"/E/Vue/starting a new project in vue",
+		"/C/Vue/udemy_vue/6 - workflow/vue-cli/index.html",
+		"/C/Vue/udemy_vue/6 - workflow/vue-cli/src/main.js",
+		"/C/Vue/udemy_vue/6 - workflow/vue-cli/src/App.vue",
+		"/C/Vue/udemy_vue/vue.js",
+		"/C/Vue/udemy_vue/4 - The Monster Slayer/css/app.css",
+		"/C/Vue/udemy_vue/4 - The Monster Slayer/index.html",
+		"/C/Vue/udemy_vue/4 - The Monster Slayer/app.js",
+		"/C/Vue/udemy_vue/4 - The Monster Slayer/css/foundation.min.css",
+		"/C/Vue/assignments/Exercise 5 - Conditionals and Lists/index.html",
+		"/C/Vue/assignments/Exercise 5 - Conditionals and Lists/app.js",
+		"/C/Vue/udemy_vue/3 - conditionals-and-lists/css.css",
+		"/C/Vue/udemy_vue/3 - conditionals-and-lists/index.html",
+		"/C/Vue/udemy_vue/3 - conditionals-and-lists/app.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Vue/udemy_vue/setting-dynamic-styles/app.js",
+		"/C/Vue/assignments/Exercise 4 - Styling/styles.css",
+		"/C/Vue/assignments/Exercise 4 - Styling/app.js",
+		"/C/Vue/assignments/Exercise 4 - Styling/index.html",
+		"/C/Vue/assignments/Exercise 4 - Styling/css.css",
+		"/C/Vue/udemy_vue/setting-dynamic-styles/css.css",
+		"/C/Vue/udemy_vue/setting-dynamic-styles/index.html",
+		"/C/Vue/udemy_vue/app.js",
+		"/C/Vue/udemy_vue/index.html",
+		"/C/Vue/vue_start/public/index.html",
+		"/C/Vue/vue_start/src/components/app-footer/app-footer-template.html",
+		"/C/Vue/vue_start/src/components/app-footer/app-footer-style.less",
+		"/C/Vue/vue_start/src/components/app-footer/app-footer-script.js",
+		"/C/Vue/vue_start/webpack.config.dev.js",
+		"/C/Vue/vue_start/src/components/app-footer/app-footer.vue",
+		"/C/Vue/vue_start/src/index.js",
+		"/C/Vue/vue_start/public/scripts/app.js",
+		"/C/Users/admin/Dropbox/Programming/Web General/WebComponents/test/index.html",
+		"/C/Users/admin/Dropbox/Programming/Web General/WebComponents/test/test.js",
+		"/C/Vue/vue_start/vue-start/vue-start/README.md",
+		"/C/Vue/vue_start/vue-start/README.md",
+		"/C/Angular/shopping-list-project/src/app/feature-recipe-book/app-recipe-detail/app-recipe-detail.component.ts",
+		"/C/Angular/shopping-list-project/src/app/app.module.ts",
+		"/C/Angular/shopping-list-project/src/app/feature-recipe-book/app-recipe-detail/app-recipe-detail.component.html",
+		"/C/Angular/shopping-list-project/src/app/app.component.html",
+		"/C/Angular/shopping-list-project/src/app/feature-recipe-book/app-recipe-detail/app-recipe-detail.module.ts",
+		"/C/Angular/aa-my-first-app/src/app/app.module.ts",
+		"/C/Angular/aa-my-first-app/src/app/server/server.component.ts",
+		"/C/Angular/shopping-list-project/src/app/feature-recipe-book/app-recipe-detail/app-recipe-detail.component.css",
+		"/C/Angular/shopping-list-project/angular.json",
+		"/C/Angular/3-start/basics-assignment-3-start/src/app/app.component.ts",
+		"/C/Angular/3-start/basics-assignment-3-start/src/app/app.module.ts",
+		"/C/Angular/3-start/basics-assignment-3-start/src/app/app.component.css",
+		"/C/Angular/3-start/basics-assignment-3-start/src/app/app.component.html",
+		"/C/Angular/aa-my-first-app/src/app/servers/servers.component.html",
+		"/C/Angular/aa-my-first-app/src/app/server/server.component.html",
+		"/C/Angular/aa-my-first-app/src/app/servers/servers.component.ts",
+		"/C/Angular/aa-my-first-app/src/app/app.component.css",
+		"/C/Angular/aa-my-first-app/src/app/app.component.ts",
+		"/C/Angular/aa-my-first-app/src/app/app.component.html",
+		"/C/Angular/aa-my-first-app/src/app/test/test.component.html",
+		"/C/Angular/aa-my-first-app/src/app/test/test.component.ts",
+		"/C/Angular/aa-my-first-app/aa-my-first-app.sublime-project",
+		"/C/Angular/aa-my-first-app/src/main.ts",
+		"/C/Angular/aa-my-first-app/angular.json",
+		"/C/Users/admin/Dropbox/The Story Project/ent/entity.h",
+		"/C/Users/admin/Dropbox/The Story Project/ent/entity.cpp",
+		"/C/Users/admin/Dropbox/The Story Project/io/input.h",
+		"/C/Users/admin/Dropbox/The Story Project/io/input.cpp",
+		"/C/Users/admin/Dropbox/The Story Project/map/spatialmap.h",
+		"/C/Users/admin/Dropbox/The Story Project/map/spatialmap.cpp",
+		"/C/Users/admin/Dropbox/The Story Project/gfx/graphics.h",
+		"/C/Users/admin/Dropbox/The Story Project/gfx/graphics.cpp",
+		"/C/Users/admin/Dropbox/The Story Project/gfx/scene.h",
+		"/C/Users/admin/Dropbox/The Story Project/gfx/scene.cpp",
+		"/C/Users/admin/Dropbox/The Story Project/util/statics.h",
+		"/C/Users/admin/Dropbox/The Story Project/main.h",
+		"/C/Users/admin/Dropbox/The Story Project/main.cpp",
+		"/C/Users/admin/Dropbox/The Story Project/util/utilities.h",
+		"/C/Users/admin/Dropbox/The Story Project/util/utilities.cpp",
+		"/C/Users/admin/Dropbox/The Story Project/build.bat",
+		"/K/Program Files/Steam/steamapps/common/Doki Doki Literature Club/CAN YOU HEAR ME.txt",
+		"/K/Program Files/Steam/steamapps/common/Doki Doki Literature Club/traceback.txt",
+		"/K/Program Files/Steam/steamapps/common/Doki Doki Literature Club/log.txt",
+		"/K/Program Files/Steam/steamapps/common/Doki Doki Literature Club/COPYRIGHT.txt",
+		"/K/Program Files/Steam/steamapps/common/Doki Doki Literature Club/DDLC.py",
+		"/B/Dropbox/Game Assets/lpc_entry/lpc_entry/README"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 283.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/admin/Documents/Programming/socket-server/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								17,
+								9,
+								36,
+								38,
+								0,
+								223,
+								1,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "client.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								17,
+								9,
+								39,
+								30,
+								9,
+								86,
+								118,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/admin/Documents/Programming/socket-server/public/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								17,
+								9,
+								39,
+								30,
+								10,
+								6,
+								65,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/admin/Documents/Programming/socket-server/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								12,
+								17,
+								9,
+								39,
+								30,
+								8,
+								166,
+								172,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 53.0
+	},
+	"input":
+	{
+		"height": 97.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/build-systemstest.sublime-build",
+	"project": "socket-server.sublime-project",
+	"replace":
+	{
+		"height": 102.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
